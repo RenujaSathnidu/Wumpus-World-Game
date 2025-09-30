@@ -29,16 +29,22 @@ Navigate the cave, avoid pits, defeat the Wumpus, grab the gold, and escape aliv
 
 ### 1️⃣ Clone the repository  
 
+```bash
 git clone https://github.com/RenujaSathnidu/Wumpus-World-Game.git <br>
 cd Wumpus-World-Game
+```
 
 ### 2️⃣ Install dependencies
 
+```bash
 pip install pygame pillow
+```
 
 ### 3️⃣ Run the game
 
+```bash
 python wumpus_world.py
+```
 
 ---
 
